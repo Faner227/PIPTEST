@@ -1,0 +1,7 @@
+README.txt
+setup.py
+my_test_pip_cv_653426.egg-info/PKG-INFO
+my_test_pip_cv_653426.egg-info/SOURCES.txt
+my_test_pip_cv_653426.egg-info/dependency_links.txt
+my_test_pip_cv_653426.egg-info/requires.txt
+my_test_pip_cv_653426.egg-info/top_level.txt
